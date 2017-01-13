@@ -1,4 +1,4 @@
 #卒業論文
 
-##itook12
-##masuilab
+iTook12
+masuilab
